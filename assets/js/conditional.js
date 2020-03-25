@@ -78,3 +78,24 @@ switch (month) {
 
     break;
 }
+
+//SWITCH CASEE
+
+// let clothesType = 'PIYAMA';
+// let color = 'HIJAU';
+
+// // write your code below this line, don't change this!
+
+// switch (true) {
+//   case clothesType == 'GAUN' && color == "MERAH":
+//     alert('SAYA SUKA GAUN MERAH')
+//     break;
+//   case clothesType == 'KAOS' && color == "BIRU":
+//     alert('SAYA SUKA KAOS BIRU')
+//     break;
+//   case clothesType == 'KEMEJA' && color == "KUNING":
+//     alert('SAYA SUKA KEMEJA KUNING')
+//     break;
+//   default:
+//     alert('SAYA SUKANYA PAKAI BAJU KEBAYA')
+// }
